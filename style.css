@@ -1,0 +1,247 @@
+#nav-bar
+{
+    padding: 15px;
+    padding-left: 40px;
+}
+
+#in
+{
+    height: 27px;
+    width: 81px;
+    padding-bottom: 29px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-width: 1.5px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+    margin-right: 10px;
+    background-color: rgb(255, 248, 248);
+}
+
+#in:hover
+{
+    background-color: rgba(0, 0, 0, 0.090);
+    transition: ease 0.4s;
+    cursor: pointer;
+}  
+
+#up
+{
+    background-color: black;
+    color: white;
+    height: 27px;
+    width: 81px;
+    padding-bottom: 29px;
+    padding-left: 2px;
+    padding-right: 2px;
+    border-width: 1.5px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+}
+#up:hover
+{
+    background-color: rgba(0, 0, 0, 0.668);
+    cursor: pointer;
+    transition: ease 0.4s;
+}  
+
+.buts
+{
+    margin-right: 60px;
+
+}
+
+.collapse span:hover 
+{
+    color:#006241;
+}
+
+.main-body
+{
+    width: inherit;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.title1
+{
+    background-color: red;
+    padding-top: 40px;
+    padding-bottom: 20px;
+
+}
+.title1 h1
+{
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    font-size: 55px;
+}
+
+.title1 p
+{
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    font-size: 28px;
+   
+}
+
+.title1 a
+{
+    color: white;
+    text-decoration: underline;
+}
+
+.title1 a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
+.title2
+{
+    background-color: red;
+   
+
+}
+.title2 h1
+{
+   
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    font-size: 55px;
+}
+
+.title2 p
+{
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    font-size: 23px;
+    padding-left: 88px;
+    padding-right: 134px;
+    letter-spacing: 0.3px;
+    margin-top: 15px;
+
+}
+
+
+.title2 h2
+{
+
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    font-size: 44px;
+  
+    letter-spacing: 1.5px;
+
+}
+
+.di
+{
+    height: 30px;
+    padding: 5px 5px 30px 5px;
+    border-color: aliceblue;
+    border-radius: 20px;
+    margin-left: 270px;
+}
+
+.poster1 
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.rewlink a
+{
+
+    color: #fff ;
+    text-decoration: none;
+}
+.rewlink a:hover
+{
+    color: #fff;
+    text-decoration: underline;
+}
+
+.firstbtn button
+{
+    border-radius: 20px;
+    border-width: 2px;
+    border-color: #fff;
+}
+
+
+.common-bg
+{
+    background-color: #d50133;
+}
+
+.common-btn
+{
+    border-radius: 40px;
+    border-color: white;
+    background-color: #d40031;
+    color: white;
+    border-width: 2px;
+}
+.button3
+{
+    background-color: #01b288;
+    border-color: rgb(0, 0, 0);
+    border-radius: 25px;
+}
+
+.button5
+{
+    background-color: #d40031;
+    border-color: rgb(255, 255, 255);
+    border-radius: 25px;
+    color: #fff;
+}
+
+.last-link a
+{
+    text-decoration: underline;
+}
+
+/* bilstyle */
+
+.btn-spac{
+    margin-right: 5px;
+}
+
+.section-2-text-1{
+    font-size: 24px;
+    color: white;
+}
+.section-2-text-2{
+    font-size: 18px;
+    color: white;
+}
+.section-2{
+    background-color: #d40031;
+}
+
+a:hover{
+    text-decoration: #006241;
+    text-decoration:none;
+}
+.location{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.social svg:hover
+{
+  filter: invert(50%);
+  cursor: pointer;
+}
